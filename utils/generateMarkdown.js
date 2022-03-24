@@ -1,10 +1,12 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+//create a function that uses the data from the index.js as an argument to display a license
+//badge determined by the user response in the data.license response.
 const addBadge = (data) => {
   return `![License Badge](https://img.shields.io/badge/license-${data.license}-orange.svg)`
 };
 
 
-// TODO: Create a function to generate markdown for README
+// Create a function that passes data as an argument and sets up the outline of the
+//readme.md. Include a table of contents with links to the section headers.
 function generateMarkdown(data) {
   return `# ${data.title}
 
@@ -40,7 +42,7 @@ function generateMarkdown(data) {
 
   ## Contact Me Here With Questions
   Github: [${data.username}](https://github.com/${data.username})
-  
+
   Email: ${data.email}  
 `;
 };

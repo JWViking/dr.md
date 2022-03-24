@@ -10,5 +10,5 @@ Launch this generator from your command line, follow the prompts, and it will ge
 ## Sample README.md 
 
 
+
 ## Walkthrough Video
-[Video Link](https://watch.screencastify.com/v/mAvhLbALc15Fd2mQUesV)

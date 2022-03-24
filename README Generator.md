@@ -1,4 +1,4 @@
-# asdf
+# README Generator
 
   ![License Badge](https://img.shields.io/badge/license-MIT-orange.svg)
 
@@ -13,23 +13,24 @@
 
 
   ## Description
-  asdf
+  This generator creates a readme file.
 
   ## Installation
-  asdf
+  Install inquirer package in the command line. Download the files. 
 
   ## Usage
-  asdf
+  N/A
 
   ## Contribution
-  asdf
+  N/
 
   ## Tests
-  asdf
+  N/A
 
   ## License
   MIT
 
   ## Contact Me Here With Questions
-  Github: [asdf](https://github.com/asdf)
-  Email: asdf  
+  Github: [JWViking](https://github.com/JWViking)
+  
+  Email: inyourdreams@gmail.com  
